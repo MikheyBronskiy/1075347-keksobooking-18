@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Станислав Краев](https://up.htmlacademy.ru/javascript/18/user/1075347).
-* Наставник: `Неизвестно`.
+* Наставник: `Артем Макаров`.
 
 ---
 
